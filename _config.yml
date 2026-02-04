@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Olajide Olanipekun"
 title_separator          : "-"
 name                     : &name "Olajide Olanipekun"
-description              : &description "Olajide's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Academic portfolio and projects by Olajide Olanipekun"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://samsondoski.github.io/Olajide_Olanipekun # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "/Olajide_Olanipekun" # the subpath of your site, e.g. "/blog"
@@ -24,9 +24,9 @@ repository               : "Olajide_Olanipekun/SamsonDoski.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "Olajide Olanipekun"
+  pronouns         : "he/him" # example: "she/her"  
+  bio              : "Computer and Information Research Scientist Aspirant. Bachelor of Science in Computer Science. Minor in Data and Society."
   location         : "Houston, TX"
   School           : "University of Houston"
   uri              : "https://samsondoski.github.io/Olajide_Olanipekun/"
@@ -81,7 +81,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
-  Linkedin         : "Olajide Olanipekun"
+  Linkedin         : "www.linkedin.com/in/olajide-olanipekun-4b200222a"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
@@ -149,16 +149,28 @@ og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : "Person"# Person or Organization (defaults to Person)
+  name                   : "Olajide Olanipekun"# If the user or organization name differs from the site's name
+  links:                 
+    - name: "GitHub"
+      url: "https://github.com/SamsonDoski"
+      icon: "github"
+    - name: "LinkedIn"
+      url: "https://www.linkedin.com/in/[your-linkedin-id]"
+      icon: "linkedin"
+    - name: "Instagram"
+      url: "https://instagram.com/kd.jide"
+      icon: "instagram"
+    - name: "Google Scholar"
+      url: "https://scholar.google.com/citations?user=[id]"
+      icon: "scholar"# An array of links to social media profiles
 
 
 # Analytics
 analytics:
   provider               :  "google" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
-    tracking_id          :  G-WYJSSV4BB7
+    tracking_id          :  "G-WYJSSV4BB7"
 
 
 # Reading Files
