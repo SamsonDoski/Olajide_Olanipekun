@@ -9,10 +9,10 @@
 
 main:
   - title: "About"
-    url: "/"
+    url: "/Olajide_Olanipekun/"
 
   - title: "CV"
-    url: "/cv/"
+    url: "/Olajide_Olanipekun/cv/"
 
   - title: "Portfolio"
-    url: "/portfolio/"
+    url: "/Olajide_Olanipekun/portfolio/"
