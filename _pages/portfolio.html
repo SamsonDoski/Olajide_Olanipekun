@@ -1,17 +1,19 @@
 ---
-layout: archive
-title: "Portfolio"
-permalink: /portfolio/
-author_profile: true
+title: "AI Trading Assistant"
+layout: single
+teaser: "trading-assistant.png" # optional
+github: "https://github.com/SamsonDoski/Trading_Assistant"
 ---
 
-{% include analytics.html %}
 
+{% include analytics.html %}
 
 <h1>My Portfolio</h1>
 <ul>
   {% for project in site.portfolio %}
-    <li><a href="{{https://github.com/SamsonDoski/Trading_Assistant}}">{{ AI Trading Assistant }}</a></li>
+    <li>
+      <a href="{{ project.github }}">{{ project.title }}</a>
+      <p>{{ project.content | markdownify }}</p>
+    </li>
   {% endfor %}
 </ul>
-
