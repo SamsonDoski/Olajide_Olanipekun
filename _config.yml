@@ -24,7 +24,7 @@ repository               : "Olajide_Olanipekun/SamsonDoski.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.png"
+  avatar           : "images/profile.png"
   name             : "Olajide Olanipekun"
   pronouns         : "he/him" # example: "she/her"  
   bio              : "Computer Science student at the University of Houston with interests in aviation technology, artificial intelligence, and data-driven research. Aspiring Computer and Information Research Scientist."
