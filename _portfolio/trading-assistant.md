@@ -1,6 +1,6 @@
 ---
 title: "AI Trading Assistant"
-layout: single
+layout: archive
 teaser: "trading-assistant.png"   # optional image in /images/
 github: "https://github.com/SamsonDoski/Trading_Assistant"
 ---
