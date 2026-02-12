@@ -18,7 +18,7 @@
 
 
 locale                   : "en-US"
-site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Olajide Olanipekun"
 title_separator          : "-"
 name                     : &name "Olajide Olanipekun"
