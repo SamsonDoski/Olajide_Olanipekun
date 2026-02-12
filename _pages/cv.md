@@ -1,64 +1,91 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+## Education
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+**University of Houston**, Houston, TX  
+Bachelor of Science in Computer Science, Honors College  
+Expected December 2026  
+GPA: 3.416  
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**Houston Community College**, Houston, TX  
+Associate of Science in Computer Science  
+Awarded May 2024  
+GPA: 3.6  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+---
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Relevant Coursework
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- Data Structures and Algorithms  
+- Discrete Mathematics  
+- Database Fundamentals  
+- Data Science  
+
+---
+
+## Technical Projects
+
+### Trading Assistant (Python) | June 2025 – August 2025  
+- Developed a Python-based back-testing and portfolio simulation tool to evaluate moving average crossover strategies.  
+- Achieved 100% execution success rate during back-test runs.  
+- Validated through simulated trading trials with 20+ users.  
+- Received a 92% approval rating for signal accuracy and capital allocation effectiveness.  
+
+### Bank Simulation (C++) | May 2024  
+- Built a C++ program simulating real-world banking transactions.  
+- Implemented structured functions to handle account operations and transaction logic.  
+- Achieved consistent execution reliability across all program runs.  
+
+---
+
+## Work Experience
+
+### Barnes & Noble College | August 2022 – July 2023  
+Bookseller / Customer Service Attendant  
+
+- Managed daily sales operations serving 90+ customers.  
+- Processed approximately 200 online orders per day for shipping and in-store pickup.  
+- Contributed to a 15% increase in sales through improved customer engagement.  
+- Trained team members to improve order processing efficiency.  
+- Collaborated with management to improve workflow and customer satisfaction.  
+
+---
+
+## Leadership & Activities
+
+### HCC Student Government Association – Northwest Chapter  
+Historian | August 2022 – July 2023  
+
+- Served as liaison between over 5,000 students and campus administration.  
+- Addressed and helped resolve key campus-wide concerns.  
+- Created annual documentation of association events across six colleges.  
+- Contributed to the chapter earning recognition at conference events.  
+
+---
+
+## Technical Skills
+
+**Programming:** Python, C++, SQL  
+**Libraries & Tools:** NumPy, Pandas, Git, CLion, Visual Studio, Excel  
+**Languages:** English, Yoruba  
+
+---
+
+## Certifications
+
+- Rice University Ken Kennedy Institute of Bioscience – Machine Learning Certificate  
+- Google IT Automation with Python Certificate  
+
+---
+
+## Honors
+
+- Dean’s List (Spring 2022 – Fall 2023)  
+- SkillsUSA Texas Postsecondary Programming Competition – Bronze Medalist  
