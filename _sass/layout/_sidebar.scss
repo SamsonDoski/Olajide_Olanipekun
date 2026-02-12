@@ -141,9 +141,13 @@
    ========================================================================== */
 
 .author__avatar {
-  display: table-cell;
-  vertical-align: top;
-  width: 36px;
+  width: 150px;             // adjust size
+  height: 150px;
+  border-radius: 50%;       // circular
+  object-fit: cover;        // maintain aspect ratio
+  border: 2px solid #333;   // subtle border
+  display: block;
+  margin: 0 auto 1rem;      // center in sidebar
   // set width only, for non-square avatars
   // height: 36px;
 
@@ -322,3 +326,4 @@
     }
   }
 }
+
