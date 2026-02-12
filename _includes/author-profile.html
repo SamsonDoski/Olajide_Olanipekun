@@ -1,7 +1,7 @@
-{% include base_path %}
+{% include analytics.html %}
 
-{% if page.author and site.data.authors[page.author] %}
-  {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
+{% if site.author.avatar %}
+  <img src="{{ site.baseurl }}{{ site.author.avatar }}" alt="{{ site.author.name }}" class="author-avatar">
 {% endif %}
 
 <div itemscope itemtype="http://schema.org/Person">
