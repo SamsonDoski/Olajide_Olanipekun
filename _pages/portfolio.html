@@ -5,10 +5,13 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-{% include base_path %}
+{% include analytics.html %}
 
 
-{% for post in site.portfolio %}
-  {% include archive-single.html post=post %}
-{% endfor %}
+<h1>My Portfolio</h1>
+<ul>
+  {% for project in site.portfolio %}
+    <li><a href="{{https://github.com/SamsonDoski/Trading_Assistant}}">{{ AI Trading Assistant }}</a></li>
+  {% endfor %}
+</ul>
 
