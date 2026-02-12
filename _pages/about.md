@@ -15,6 +15,8 @@ My academic foundation includes Data Structures and Algorithms, Discrete Mathema
 
 ---
 
+[Download My Resume](../files/OLAJIDE%20OLANIPEKUN%20RESUME.pdf){: .btn .btn--primary }
+
 ## Technical Experience
 
 ### Trading Assistant (Python)
