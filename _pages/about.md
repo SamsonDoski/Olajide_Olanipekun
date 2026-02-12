@@ -48,3 +48,7 @@ In addition, I served as Historian for the HCC Student Government Association, r
 ## Professional Goals
 
 I am currently focused on strengthening my expertise in algorithm design, systems programming, and data analysis while preparing for research and technical internship opportunities.
+
+---
+
+[Download My Resume](../files/OLAJIDE%20OLANIPEKUN%20RESUME.pdf){: .btn .btn--primary }
