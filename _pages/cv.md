@@ -33,12 +33,14 @@ GPA: 3.6
 ## Technical Projects
 
 ### Trading Assistant (Python) | June 2025 – August 2025  
+[View on GitHub](https://github.com/SamsonDoski/Trading_Assistant)  
 - Developed a Python-based back-testing and portfolio simulation tool to evaluate moving average crossover strategies.  
 - Achieved 100% execution success rate during back-test runs.  
 - Validated through simulated trading trials with 20+ users.  
 - Received a 92% approval rating for signal accuracy and capital allocation effectiveness.  
 
 ### Bank Simulation (C++) | May 2024  
+[View on GitHub](https://github.com/SamsonDoski/Bank_Sim.cpp)  
 - Built a C++ program simulating real-world banking transactions.  
 - Implemented structured functions to handle account operations and transaction logic.  
 - Achieved consistent execution reliability across all program runs.  
