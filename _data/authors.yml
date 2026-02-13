@@ -5,11 +5,3 @@ samsondoski:
   avatar: "/images/profile.png"
   bio: "Computer Science student at the University of Houston..."
   location: "Houston, TX"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
