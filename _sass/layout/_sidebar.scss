@@ -1,1 +1,64 @@
+.sidebar {
+  width: 250px;
+  padding: 2rem;
+  background: #f8f8f8;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  overflow-y: auto;
+
+  .author__avatar img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto 1rem;
+  }
+
+  .author__content {
+    text-align: center;
+
+    .author__name {
+      font-size: 1.4rem;
+      margin-bottom: 0.3rem;
+    }
+
+    .author__pronouns,
+    .author__bio,
+    .author__location,
+    .author__school {
+      margin-bottom: 0.5rem;
+      font-size: 0.9rem;
+    }
+
+    .author__urls {
+      list-style: none;
+      padding: 0;
+      margin-top: 1rem;
+
+      li {
+        margin-bottom: 0.5rem;
+
+        a {
+          color: #333;
+          text-decoration: none;
+          font-weight: bold;
+
+          &:hover {
+            color: #007acc;
+            text-decoration: underline;
+          }
+        }
+      }
+    }
+  }
+}
+
+/* Make main content move right */
+.content {
+  margin-left: 270px;
+  padding: 2rem;
+}
 
