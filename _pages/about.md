@@ -1,11 +1,13 @@
 ---
+layout: single
 permalink: /
-title: "Samson Doski"
+title: "Olajide Olanipekun"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
 
 ## About Me
 
