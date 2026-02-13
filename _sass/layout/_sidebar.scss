@@ -10,13 +10,21 @@
   overflow-y: auto;
 
   .author__avatar img {
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
-    object-fit: cover;
-    display: block;
-    margin: 0 auto 1rem;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto 1rem;
+
+  @include breakpoint($large) {
+    width: 230px;
+    height: 230px;
+    padding: 5px;
+    border: 1px solid var(--global-border-color);
   }
+}
+
 
   .author__content {
     text-align: left;
