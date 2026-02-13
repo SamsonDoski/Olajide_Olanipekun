@@ -18,7 +18,6 @@ url                      : https://samsondoski.github.io # The base hostname & p
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "/Olajide_Olanipekun" # the subpath of your site, e.g. "/blog"
 repository               : "Olajide_Olanipekun/SamsonDoski.github.io"
-remote_theme             : "academicpages/academicpages"
 
 
 # Site Author - The following control what appear as part of the author content on the side bar.
