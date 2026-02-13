@@ -1,11 +1,10 @@
 ---
 layout: single
-title: "Samson Doski"
+title: "Olajide Olanipekun"
 author_profile: true
 permalink: /
 ---
 
-## About Me
 
 I am a Computer Science student in the Honors College at the University of Houston pursuing a Bachelor of Science degree (Expected December 2026). I previously earned an Associate of Science in Computer Science from Houston Community College, graduating with a 3.6 GPA and Dean’s List recognition.
 
