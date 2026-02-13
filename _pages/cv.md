@@ -1,6 +1,6 @@
 ---
-layout: archive
-title: "Curriculum Vitae"
+layout: single
+title: "Curriculum Vitae / Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,7 +10,8 @@ redirect_from:
 ## Education
 
 **University of Houston**, Houston, TX  
-Bachelor of Science in Computer Science, Honors College  
+Bachelor of Science in Computer Science, Honors College
+Minor in Data and Society
 Expected December 2026  
 GPA: 3.416  
 
@@ -26,7 +27,10 @@ GPA: 3.6
 - Data Structures and Algorithms  
 - Discrete Mathematics  
 - Database Fundamentals  
-- Data Science  
+- Data Science
+- Fundamentals of Artificial intelligence
+- Fundamentals of Software Engineering
+- Software Design
 
 ---
 
@@ -75,7 +79,7 @@ Historian | August 2022 – July 2023
 ## Technical Skills
 
 **Programming:** Python, C++, SQL  
-**Libraries & Tools:** NumPy, Pandas, Git, CLion, Visual Studio, Excel  
+**Libraries & Tools:** NumPy, Pandas, Pytorch, Tensorflow, Git, CLion IDE, Visual Studio IDE  
 **Languages:** English, Yoruba  
 
 ---
@@ -89,5 +93,6 @@ Historian | August 2022 – July 2023
 
 ## Honors
 
-- Dean’s List (Spring 2022 – Fall 2023)  
+- University of Houston Honors College Member
+- Dean’s List Honoree (Spring 2022 – Fall 2023)  
 - SkillsUSA Texas Postsecondary Programming Competition – Bronze Medalist  
