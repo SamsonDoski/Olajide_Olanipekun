@@ -18,6 +18,8 @@ url                      : https://samsondoski.github.io # The base hostname & p
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "/Olajide_Olanipekun" # the subpath of your site, e.g. "/blog"
 repository               : "Olajide_Olanipekun/SamsonDoski.github.io"
+remote_theme             : "academicpages/academicpages"
+
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -326,6 +328,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-redirect-from
+  - jekyll-include-cache
   - jemoji
 
 # Mimic GitHub Pages with --safe
