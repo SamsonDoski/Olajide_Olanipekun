@@ -23,16 +23,16 @@ repository               : "Olajide_Olanipekun/SamsonDoski.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
-#author:
+author:
   # Biographic information
-  #avatar           : "/images/profile.png"
-  #name             : "Olajide Olanipekun"
-  #pronouns         : "he/him" # example: "she/her"  
-  #bio              : "Computer Science student at the University of Houston with interests in aviation technology, artificial intelligence, and data-driven research. Aspiring Computer and Information Research Scientist."
-  #location         : "Houston, TX"
-  #School           : "University of Houston"
-  #uri              : "https://samsondoski.github.io/Olajide_Olanipekun/"
-  #email            : "olajideolanipekun1@gmail.com" 
+  avatar           : "/images/profile.png"
+  name             : "Olajide Olanipekun"
+  pronouns         : "he/him" # example: "she/her"  
+  bio              : "Computer Science student at the University of Houston with interests in aviation technology, artificial intelligence, and data-driven research. Aspiring Computer and Information Research Scientist."
+  location         : "Houston, TX"
+  School           : "University of Houston"
+  uri              : "https://samsondoski.github.io/Olajide_Olanipekun/"
+  email            : "olajideolanipekun1@gmail.com" 
 
   # Academic websites
   academia         : # URL
