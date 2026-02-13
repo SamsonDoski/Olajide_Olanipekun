@@ -15,7 +15,8 @@ My academic foundation includes Data Structures and Algorithms, Discrete Mathema
 
 ---
 
-[Download My Resume](../files/OLAJIDE%20OLANIPEKUN%20RESUME.pdf){: .btn .btn--primary }
+[Download My Resume]({{ site.baseurl }}/files/OLAJIDE%20OLANIPEKUN%20RESUME.pdf){: .btn .btn--primary }
+
 
 ## Technical Experience
 
@@ -51,4 +52,4 @@ I am currently focused on strengthening my expertise in algorithm design, system
 
 ---
 
-[Download My Resume](../files/OLAJIDE%20OLANIPEKUN%20RESUME.pdf){: .btn .btn--primary }
+[Download My Resume]({{ site.baseurl }}/files/OLAJIDE%20OLANIPEKUN%20RESUME.pdf){: .btn .btn--primary }
