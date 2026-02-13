@@ -22,6 +22,10 @@
     @include prefix(0.5 of 12);
     @include suffix(2 of 12);
   }
+.page {
+  padding-right: 2rem;  // increase this if needed
+}
+
 
   .page__inner-wrap {
     @include full();
