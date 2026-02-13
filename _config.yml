@@ -150,8 +150,8 @@ og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : "Person"# Person or Organization (defaults to Person)
-  name                   : "Olajide Olanipekun"# If the user or organization name differs from the site's name
+  type                   : "Person" # Person or Organization (defaults to Person)
+  name                   : "Olajide Olanipekun" # If the user or organization name differs from the site's name
   links:                 
     - name: "GitHub"
       url: "https://github.com/SamsonDoski"
@@ -164,7 +164,7 @@ social:
       icon: "instagram"
     - name: "Google Scholar"
       url: "https://scholar.google.com/citations?user=[id]"
-      icon: "scholar"# An array of links to social media profiles
+      icon: "scholar" # An array of links to social media profiles
 
 
 # Analytics
