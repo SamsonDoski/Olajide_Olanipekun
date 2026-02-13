@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /about/
+permalink: /
 title: "Olajide Olanipekun"
 author_profile: true
 ---
