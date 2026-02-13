@@ -3,7 +3,6 @@ layout: single
 permalink: /
 title: "Olajide Olanipekun"
 author: samsondoski
-author_profile: true
 ---
 
 
